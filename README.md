@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OZALOMARLI
 - 👀 I’m interested in AI and Embeded Systems
-- 🌱 I’m currently learning Programming Language of Java and Python
+- 🌱 I’m currently learning Programming Language of Java, C++ and Python
 - 📫 How to reach me ozalomerli011@gmail.com
 - 😄 Pronouns: A.K.A. Ellioth
 - ⚡ Fun fact: I studied Mechanical Engineering for one semester and I am currently studying Software Engineering.
