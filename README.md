@@ -1,7 +1,6 @@
 -  Hi, I’m @OZALOMARLI
 -  I’m interested in AI and Embeded Systems
 -  I’m currently learning Programming Language of Java, C++ and Python
--  How to reach me ozalomerli011@gmail.com
 -  Fun fact: I studied Mechanical Engineering for 2 Year and I am currently studying Software Engineering.
 
 <!---
