@@ -1,4 +1,4 @@
--  Hi, I’m @OZALOMARLI
+-  Hi, I’m OZAL OMARLI
 -  I’m interested in Embeded Systems
 -  I’m currently learning Programming Language of Java, C++ and Python
 -  Fun fact: I studied Mechanical Engineering for 2 Year and I am currently studying Software Engineering.
